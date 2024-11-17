@@ -151,6 +151,7 @@ return {
   perl = { "perlnavigator" },
   pest = { "pest_ls" },
   php = { "htmx", "intelephense", "phpactor", "psalm", "stimulus_ls", "tailwindcss", "unocss" },
+  pkl = { "pkl_lsp" },
   plaintex = { "ltex", "texlab" },
   postcss = { "tailwindcss", "unocss" },
   prisma = { "prismals" },

@@ -133,6 +133,7 @@ M.lspconfig_to_package = {
     ["phpactor"] = "phpactor",
     ["pico8_ls"] = "pico8-ls",
     ["pkgbuild_language_server"] = "pkgbuild-language-server",
+    ["pkl_lsp"] = "pkl-lsp",
     ["powershell_es"] = "powershell-editor-services",
     ["prismals"] = "prisma-language-server",
     ["prosemd_lsp"] = "prosemd-lsp",

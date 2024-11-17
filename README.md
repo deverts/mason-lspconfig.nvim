@@ -341,6 +341,7 @@ local DEFAULT_SETTINGS = {
 | PHP | [`psalm`](https://github.com/neovim/nvim-lspconfig/blob/master/doc/configs.md#psalm) |
 | PHP | [`stimulus_ls`](https://github.com/neovim/nvim-lspconfig/blob/master/doc/configs.md#stimulus_ls) |
 | PICO-8 | [`pico8_ls`](https://github.com/neovim/nvim-lspconfig/blob/master/doc/configs.md#pico8_ls) |
+| Pkl | [`pkl_lsp`](https://github.com/neovim/nvim-lspconfig/blob/master/doc/configs.md#pkl_lsp) |
 | PowerShell | [`powershell_es`](https://github.com/neovim/nvim-lspconfig/blob/master/doc/configs.md#powershell_es) |
 | Prisma | [`prismals`](https://github.com/neovim/nvim-lspconfig/blob/master/doc/configs.md#prismals) |
 | Protobuf | [`bufls`](https://github.com/neovim/nvim-lspconfig/blob/master/doc/configs.md#bufls) |
